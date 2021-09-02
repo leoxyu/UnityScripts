@@ -1,2 +1,2 @@
 # UnityScripts
-Collections of C# scripts for unity games
+Collections of C# scripts for unity games.
